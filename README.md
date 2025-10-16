@@ -47,4 +47,4 @@ Currently exploring ways to grow my skills for a **Summer 2026 Software or Data 
 
 - **Email:** [trentrd504@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/trent-davis15]
-- **GitHub:** [github.com/1TDavis5]
+- **GitHub:** [github.com/trentdavis15]
