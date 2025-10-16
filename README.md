@@ -28,9 +28,9 @@ Currently exploring ways to grow my skills for a **Summer 2026 Software or Data 
 
 | Category | Tools & Languages |
 |-----------|------------------|
-| Languages | Python, Java, C++, SQL |
-| Databases | MySQL, SQLite |
-| Tools | Git, VS Code, IntelliJ |
+| Languages | Python, Java, C, SQL |
+| Databases | MySQL Workbench |
+| Tools | Git, VS Code, Linux, SSH |
 
 ---
 
